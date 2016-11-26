@@ -1,0 +1,25 @@
+{
+    "name": "mojs-theme",
+    "title": "mojs",
+    "description": "mojs theme with the same style of http://mojs.io/",
+    "homepage": "none",
+    "version": "0.0.1",
+    "author": {
+        "name": "Guillaume Bernier",
+        "url": "https://github.com/GuillaumeBurn/brackets_theme-mojs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GuillaumeBurn/brackets_theme-mojs"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "engines": {
+        "brackets": ">=1.2"
+    },
+    "license": "MIT",
+    "keywords": ["theme", "brackets", "green", "cool", "mint", "soft", "jEdit", "dark", "easy", "extension", "fork"]
+}
